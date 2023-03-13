@@ -15,3 +15,5 @@ Marsupial consists of three applications: [Marsupial EMR](https://github.com/mar
 # Contribute
 Marsupial is free to use for anyone, but has taken significant time to create and support. It was made with the intent to provide an alternative to for-profit education. Please consider donating to help offset some of the costs of hosting and developing the software.<br/><br/>
 If you would like to help fund or sponsor the project, you can do so via [Ko-Fi](https://ko-fi.com/marsupialemr)
+# Media
+![Marsupial EMR MAR screen](/images/marsupial-mar-small.png)
