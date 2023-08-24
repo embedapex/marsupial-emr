@@ -1,11 +1,14 @@
 # What is Marsupial? (https://www.marsupialemr.com)
-Marsupial is a free electronic medical record software for healthcare educators. Marsupial provides students and educators in nursing and other healthcare disciplines the ability to augment their labs and simulations with realistic charting and medication administration experiences.
+Marsupial is a free electronic medical record software for healthcare educators. Marsupial provides students and educators in nursing and other healthcare disciplines the ability to augment their labs and simulations with realistic charting and medication administration experiences. Marsupial has similar features to many popular EMRs, but limited to those most useful to the educational environment. It's designed to be used in a simulation or skills lab as a scenario-based learning tool. 
+
+Marsupial runs on a local computer. It accesses a customizable database file containing patient charts. The EMR is accessible only on that computer. Marsupial can be installed on multiple computers and each can access their own instance of the EMR, but Marsupial does not support multiple concurrent users like a hospital EMR. Marsupial is not a fully featured EMR. It is not a cloud-based curriculum service.
 
 Marsupial consists of three applications: [Marsupial EMR](https://github.com/marsupialproject/marsupial-emr) (located here), [Marsupial Editor](https://github.com/marsupialproject/marsupial-editor), and [Marsupial Instructor](https://github.com/marsupialproject/marsupial-instructor). 
 
 **Marsupial EMR** is the core application students use to interact with patient charts during lab or simulation<br/>
 **Marsupial Editor** is a companion application instructors use to build and edit patient charts<br/>
 **Marsupial Instructor** is a companion application instructors may use to control Marsupial EMR over a network during a sim<br/>
+
 # Quick Links
 - Website: https://www.marsupialemr.com/
 - Documentation: https://github.com/marsupialproject/marsupial-emr/wiki
