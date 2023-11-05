@@ -13,6 +13,7 @@ Marsupial consists of three applications: [Marsupial EMR](https://github.com/mar
 - Website: https://www.marsupialemr.com/
 - Documentation: https://github.com/marsupialproject/marsupial-emr/wiki
 - Training Videos: https://www.youtube.com/@marsupialemr
+- Discussion https://github.com/marsupialproject/marsupial-emr/discussions
 - Download Marsupial EMR: https://github.com/marsupialproject/marsupial-emr/releases
 - Download Marsupial Editor: https://github.com/marsupialproject/marsupial-editor/releases
 - Download Marsupial Instructor: https://github.com/marsupialproject/marsupial-instructor/releases
