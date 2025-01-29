@@ -13,6 +13,9 @@ Marsupial consists of four applications: [Marsupial EMR](https://github.com/mars
 # Quick Links
 - Website: https://www.marsupialemr.com/
 - Documentation: https://github.com/marsupialproject/marsupial-emr/wiki
+- 
+- INSTALLATION GUIDE VIDEO - https://www.youtube.com/watch?v=P9KbzMhoFYA
+- 
 - Training Videos: https://www.youtube.com/@marsupialemr
 - Discussion https://github.com/marsupialproject/marsupial-emr/discussions
 - Download Marsupial EMR: https://github.com/marsupialproject/marsupial-emr/releases
